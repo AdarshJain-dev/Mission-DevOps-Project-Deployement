@@ -14,7 +14,7 @@
 
 ## Features
 
-- CRUD operations
+- CRUD operations (CRUD)
 - JDBC for database control
 - Spring Boot framework
 - Mapping HTTP requests to appropriate HTML pages on the controller
